@@ -1,0 +1,2 @@
+sdk.dir=/home/anubhav/Android/Sdk
+flutter.sdk=/home/anubhav/Documents/flutter

@@ -17,5 +17,11 @@ The original website can be accessed from here: https://anubhavsanyal-72f65.web.
 
 Below are some screenshots attached for your reference.
 
+![Image1](https://github.com/Anubhav9/Anubhav-s_Resume/blob/master/Readme%20Images/0.jpg)
+
+![Image2](https://github.com/Anubhav9/Anubhav-s_Resume/blob/master/Readme%20Images/0%20(1).jpg)
+
+![Image3](https://github.com/Anubhav9/Anubhav-s_Resume/blob/master/Readme%20Images/0%20(2).jpg)
+
 If you like this repository, don't forget to star it.
 
